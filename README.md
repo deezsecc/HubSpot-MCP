@@ -56,12 +56,12 @@ city: San Francisco
 state: CA
 zip: 94107
 country: USA
-industry: INFORMATION_TECHNOLOGY_AND_SERVICES # Not "Information Technology"
+industry: INFORMATION_TECHNOLOGY_AND_SERVICES
 type: PROSPECT
 numberofemployees: 4200
 annualrevenue: 125000000
 ```
-### The values will reflect in our Hubspot database.
+### Reflected Values in Hubspot database:
 ![Img](https://i.ibb.co/LhXn2CyM/nimbustech.png)
 
 # Credits
